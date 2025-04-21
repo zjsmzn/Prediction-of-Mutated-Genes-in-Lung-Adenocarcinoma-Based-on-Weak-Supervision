@@ -17,10 +17,10 @@
 * `pretrain`：Pre-trained models.
 
 
-### AMIL：AMIL training
+### GAMIL：GAMIL training
 
-* `make_data_list_mil.py`：Make and split training set, validation set and test set for AMIL model.
-* `amil_train.py`：Training the AMIL-Patch model.
+* `make_data_list_mil.py`：Make and split training set, validation set and test set for GAMIL model.
+* `amil_train.py`：Training the GAMIL-Patch model.
 
 - - - 
 ### Environments
