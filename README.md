@@ -21,7 +21,8 @@
 
 * `make_data_list_mil.py`：Make and split training set, validation set and test set for GAMIL model.
 * `amil_train.py`：Training the GAMIL-Patch model.
-
+### Data path
+* `data-path`:https://pan.baidu.com/s/1fsa1b6iALQVESAzkzobuqQ?pwd=yi4b 提取码:yi4b
 - - - 
 ### Environments
 * Python==3.8.3
